@@ -2,3 +2,4 @@ four
 1
 this is deleted without committing and staging the changes
 this is line is used to check the command git rm --cached four.txt
+the command  git rm --cached  four.txt whether the command is used to remove the four.txt file physically and remove the four.txt will remove the file from the stagging area 
