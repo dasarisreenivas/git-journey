@@ -1,2 +1,3 @@
 four
 1
+this is deleted without committing and staging the changes
