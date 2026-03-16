@@ -1,2 +1,3 @@
-one
-1
+one 1 this line i sused to test the commit of the stagging area 
+and the revereting the files from the coommit from local 
+repository
