@@ -1,3 +1,4 @@
 four
 1
 this is deleted without committing and staging the changes
+this is line is used to check the command git rm --cached four.txt
